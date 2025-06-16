@@ -21,7 +21,7 @@ Tired of running back and forth just to grab items that are a few blocks away? T
 
 - Lightweight & Efficient: The code is very simple and has a negligible impact on performance.
 # 如何使用 (How to Use)
-确保你已经安装了 Minecraft Forge. 从 Releases 页面 下载最新的 .jar 文件，然后将下载的 .jar 文件放入你的 Minecraft 游戏目录下的 mods 文件夹中。最后，启动游戏，即可生效！
+确保你已经安装了 Minecraft Forge. 从主页面下载最新的 .jar 文件，然后将下载的 .jar 文件放入你的 Minecraft 游戏目录下的 mods 文件夹中。最后，启动游戏，即可生效！
 
-Make sure you have Minecraft Forge installed. Download the latest .jar file from the Releases page. Place the downloaded .jar file into your .minecraft/mods folder. And, launch the game and enjoy!
+Make sure you have Minecraft Forge installed. Download the latest .jar file from the main page. Place the downloaded .jar file into your .minecraft/mods folder. And, launch the game and enjoy!
 
